@@ -1,6 +1,5 @@
 <div id='header' align='center'>
   <h1>Hello everyone! I'm Sergey</h1>
-  <h2>And I like Frontend! 🧑‍💻</h2>
 </div>
 <h4 align="left">About me:</h4>
  React Developer from Prague

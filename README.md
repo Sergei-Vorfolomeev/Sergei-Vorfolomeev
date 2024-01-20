@@ -2,7 +2,7 @@
   <h1>Hello everyone! I'm Sergey</h1>
 </div>
 <h4 align="left">About me:</h4>
- React Developer from Prague
+ React Developer from Moscow
 <h4 align="left">Languages and tools:</h4>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />

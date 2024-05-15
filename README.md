@@ -2,7 +2,7 @@
   <h1>Hello everyone! I'm Sergey</h1>
 </div>
 <h4 align="left">About me:</h4>
- Frontend Developer from Moscow
+ FullStack Developer from Moscow
 <h4 align="left">Statistic:</h4>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&username=Sergei-Vorfolomeev" height="150" alt="stats graph"  />
